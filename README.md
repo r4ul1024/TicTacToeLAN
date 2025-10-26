@@ -1,4 +1,4 @@
-# TicTacToeLAN
+# Tic-Tac-Toe LAN
 
 Tic-Tac-Toe over Local Network in C++ using Boost.asio (terminal-based)
 
