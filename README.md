@@ -1,6 +1,6 @@
 # TicTacToeLAN
 
-Tic-Tac-Toe over Local Network in C++ using Boost.asio
+Tic-Tac-Toe over Local Network in C++ using Boost.asio (terminal-based)
 
 ## How to run:
 
@@ -17,7 +17,7 @@ Tic-Tac-Toe over Local Network in C++ using Boost.asio
 
 # Крестики-нолики по локальной сети
 
-Игра крестики-нолики по локальной сети, реализованная на C++ с использованием библиотеки Boost.asio
+Игра крестики-нолики по локальной сети, терминальная, реализованная на C++ с использованием библиотеки Boost.asio
 
 ## Запуск:
 1. Запускается сервер (его можно запустить на отдельном компьютере либо на компьютере одного из игроков).
