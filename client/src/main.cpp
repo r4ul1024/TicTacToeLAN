@@ -34,7 +34,6 @@ int main() {
 			std::cout << "DRAW!!!\n\n";
 			restart();
 		}
-		// При продолжении игры
 		else if (symbol[0] == 'X') {
 			std::cout << "Move: ";
 			move();
