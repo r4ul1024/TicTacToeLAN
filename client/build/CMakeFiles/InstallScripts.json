@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/us3r/TicTacToeLAN/client/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,0 +1,3 @@
+/home/us3r/TicTacToeLAN/server/build/CMakeFiles/app.dir
+/home/us3r/TicTacToeLAN/server/build/CMakeFiles/edit_cache.dir
+/home/us3r/TicTacToeLAN/server/build/CMakeFiles/rebuild_cache.dir
